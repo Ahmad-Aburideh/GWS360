@@ -1,1 +1,3 @@
-This file contains the introduction section for the GWS360 project
+GWS360 is a GitFlow assignment project.
+This file contains the introduction section.
+It demonstrates the use of feature branches.
