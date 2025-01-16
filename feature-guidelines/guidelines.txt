@@ -1,2 +1,4 @@
 These are the project guidelines for GWS360.
+Please follow the instructions carefully.
+release/v1.0
 
